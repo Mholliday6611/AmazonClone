@@ -13,5 +13,5 @@
 3. python app.py to start server
 
 # **Notes** 
-*Currently for local server we're utilizing sqlite for the database
-*Open to Feedback
+* Currently for local server we're utilizing sqlite for the database
+* Open to Feedback

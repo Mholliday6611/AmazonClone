@@ -9,8 +9,9 @@
 ## Server Side
 
 1. cd into server
-2. pip install dependencies 
-3. python app.py to start server
+2. Create a virtualenv
+3. pip install dependencies 
+4. python app.py to start server
 
 # **Notes** 
 * Currently for local server we're utilizing sqlite for the database
